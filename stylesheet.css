@@ -1,0 +1,170 @@
+/* =========================== UNIVERSAL RESET =========================== */
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* =========================== BODY =========================== */
+
+body {
+    background-color: #9d9e9e;
+}
+
+.bodyContent {
+    text-align: center;
+}
+
+.mainForm {
+    align-items: center;
+    background-color: white;
+    margin: 20px 350px;
+    border-radius: 10px;
+}
+
+.shopContent {
+    display: flex;
+    justify-content: center;
+}
+
+.shopContentTwo {
+    display: flex;
+    justify-content: center;
+}
+
+/* =========================== PRODUCT FORM =========================== */
+
+.productForm {
+    align-items: center;
+    background-color: #dbe0dc;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+/* =========================== UPDATE FORM =========================== */
+
+.updateFormOne {
+    align-items: center;
+    background-color: #e6ebea;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.updateFormTwo {
+    align-items: center;
+    background-color: white;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.updateFormThree {
+    align-items: center;
+    background-color: #ededed;
+    margin: 20px 10px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.updateFormFour {
+    align-items: center;
+    background-color: #e6e8e5;
+    margin: 0px 10px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.updateFormFive {
+    align-items: center;
+    background-color: #f1f1f1;
+    margin: 0px 10px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.updateFormSix {
+    align-items: center;
+    background-color: #f3f3f3;
+    margin: 0px 10px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+/* =========================== FIND FORM =========================== */
+
+.findForm {
+    align-items: center;
+    background-color: #efefef;
+    margin: 20px 10px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.findFormTwo {
+    align-items: center;
+    background-color: #efefef;
+    margin: 0px 10px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+/* =========================== MENU BAR =========================== */
+
+.navigationBar {
+    font-weight: 500;
+    font-size: 18px;
+    background-color: black;
+    padding: 5px;
+}
+
+.navigation-menu ul {
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+.navigation-menu li {
+    display: inline-block;
+    margin: 0px 50px;
+}
+
+.navigation-menu li a {
+    color: white;
+    text-decoration: none;
+}
+
+.navigation-menu li a:hover {
+    background-color: black;
+    color: #ededef;
+    text-decoration: underline;
+}
+
+/* =========================== HEADER =========================== */
+
+.headerContainer {
+    padding: 5px 0px;
+    padding-left: 40px;
+}
+
+.headerButton {
+    margin-right: 30px;
+    margin-bottom: 23px;
+    font-weight: 500;
+}
+
+/* =========================== DIV =========================== */
+
+.divFooter {
+    background-color: white;
+    color:black;
+    text-align: center;
+    padding: 30px 80px;
+    padding-bottom: 40px;
+}
